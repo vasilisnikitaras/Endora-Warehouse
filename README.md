@@ -16,6 +16,18 @@ Welcome to **Endora Warehouse**, a sleek, browser-based warehouse management sys
 
 ---
 
+---
+
+### 🎯 Optional: Add a “Contributing” Section
+
+If you want others to collaborate:
+
+```markdown
+### 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repo, submit pull requests, or open issues.  
+Let’s build the future of warehouse management together.
+
 ### 🛠️ Tech Stack
 
 - **HTML** – Structure  
@@ -26,8 +38,6 @@ Welcome to **Endora Warehouse**, a sleek, browser-based warehouse management sys
 ---
 
 ### 📁 Project Structure
-
-
 
 ---
 
