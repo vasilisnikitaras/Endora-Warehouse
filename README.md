@@ -5,6 +5,11 @@ Welcome to **Endora Warehouse**, a sleek, browser-based warehouse management sys
 🌐 [vasiverse.com](https://vasiverse.com)  
 🌐 [vasifanesapp.com](https://vasifanesapp.com)
 
+## 📦✨ Endora Warehouse  
+![GitHub stars](https://img.shields.io/github/stars/vasilisnikitaras/Endora-Warehouse?style=social)  
+![License](https://img.shields.io/github/license/vasilisnikitaras/Endora-Warehouse)  
+![Live Demo](https://img.shields.io/badge/demo-online-green)
+
 ---
 
 ### 🚀 Features
