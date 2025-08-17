@@ -28,3 +28,11 @@ Welcome to **Endora Warehouse**, a sleek, browser-based warehouse management sys
 ### 📁 Project Structure
 
 
+
+---
+
+### 🧪 How to Use
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/vasilisnikitaras/Endora-Warehouse.git
