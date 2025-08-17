@@ -51,3 +51,11 @@ Let’s build the future of warehouse management together.
 1. Clone the repo:
    ```bash
    git clone https://github.com/vasilisnikitaras/Endora-Warehouse.git
+
+### 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and distribute with proper attribution.
+
+
+
